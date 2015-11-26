@@ -1,0 +1,6 @@
+framework module CCWeChatSDK {
+  umbrella header "CCWeChatSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
