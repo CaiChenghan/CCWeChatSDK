@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "CCWeChatSDK"
-  s.version          = "1.6.2.1"
+  s.version          = "1.6.2.2"
   s.summary          = "微信SDK，方便自己导入。"
 
 # This description is used to generate tags and improve search results.

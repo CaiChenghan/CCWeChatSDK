@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '17DEC30CCFEC1D215BB16D3A'
+               BlueprintIdentifier = '9186F3ADA712FBAC71C54A8C'
                BlueprintName = 'CCWeChatSDK'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'CCWeChatSDK.framework'>
