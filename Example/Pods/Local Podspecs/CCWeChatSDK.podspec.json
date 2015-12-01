@@ -1,6 +1,6 @@
 {
   "name": "CCWeChatSDK",
-  "version": "1.6.2",
+  "version": "1.6.2.1",
   "summary": "微信SDK，方便自己导入。",
   "description": "微信SDK，方便自己项目导入。",
   "homepage": "https://github.com/CaiChenghan/CCWeChatSDK",
@@ -10,7 +10,7 @@
   },
   "source": {
     "git": "https://github.com/CaiChenghan/CCWeChatSDK.git",
-    "tag": "1.6.2"
+    "tag": "1.6.2.1"
   },
   "platforms": {
     "ios": "7.0"
